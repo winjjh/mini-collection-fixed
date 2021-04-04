@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "Test Founders Grotesk";
+    src: url("./assets/test-founders-grotesk-regular.woff") format("woff");
+}
+
+body {
+    font-family: "Test Founders Grotesk";
+}
+
+.container {
+    background: lightblue;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.title {
+    text-align: center;
+}
+
+.click {
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid lightyellow;
+    border-radius : 60%;
+    background: white;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+}
+
+.click2 {
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid lightpink;
+    border-radius : 60%;
+    background: white;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+}
+
+.click3 {
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid lightskyblue;
+    border-radius : 60%;
+    background: white;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+}
+
+.click4 {
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid lightseagreen;
+    border-radius : 60%;
+    background: white;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+}
+
+.click5 {
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid lightsalmon;
+    border-radius : 60%;
+    background: white;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+}
+
+.hoya {
+    position: absolute;
+}
+
